@@ -1,7 +1,7 @@
 ### Hi, I'm Nathan Baldez 👋
 
 * :guitar: I'm Dev and Musician/Multi-instrumentalist
-* :computer: I’m currently studying Web Development and Back-end (Node.Js)
+* :computer: I’m currently studying Web Development FullStack
 * :house_with_garden: From Brasília, Brazil to São Paulo, Brazil 
 * :skateboard: :muscle: Skateboarding and Calisthenics Lover
 
