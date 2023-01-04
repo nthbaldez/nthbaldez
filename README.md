@@ -1,7 +1,7 @@
 ### Hi, I'm Nathan Baldez 👋
 
 * :guitar: I'm Dev and Musician/Multi-instrumentalist
-* :computer: I'm currently working in AlparService like a Web Developer and ServiceNow Consultant. 
+* :computer: I'm currently working in AlparService as a Web Developer and ServiceNow Consultant. 
 * :computer: My Stack: VanillaJS, AngularJS, Bootstrap, Sass and studying ReactJS actually.
 * :house_with_garden: From Brasília, Brazil to São Paulo, Brazil 
 * :skateboard: :muscle: Skateboarding and Calisthenics Lover
