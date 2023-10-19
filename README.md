@@ -1,7 +1,6 @@
 ### Hi, I'm Nathan Baldez 👋
 #### (Javascript, Typescript, ReactJS, NextJS, AngularJS, HTML, CSS)
 * 💻: Software Developer
-* 💻: Web Developer and ServiceNow Consultant in [Alpar](https://alpar.com.br/). 
 * 🏡: From Brasília, Brazil 
 * 🛹: 💪: Skateboarding and Calisthenics Lover
 
