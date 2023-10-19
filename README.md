@@ -1,5 +1,5 @@
 ### Hi, I'm Nathan Baldez 👋
-#### (Javascript, Typescript)
+
 * 💻: Software Developer
 * 🏡: From Brasília, Brazil 
 * 🛹: 💪: Skateboarding and Calisthenics Lover
